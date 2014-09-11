@@ -3,7 +3,11 @@ function setup() {
 	background(201, 241, 43);
 	noFill();
 
-	stroke(0, 0, 0);
+	stroke(255, 0, 0);
+	stroke(0, 255, 0);
+	stroke(0, 0, 255);
+	
+	
 	line(940, 660, 960, 660);
 	line(940, 670, 960, 670);
 	line(940, 680, 950, 680);
